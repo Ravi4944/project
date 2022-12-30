@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://nice-dune-0780f1300.2.azurestaticapps.net
-**project demo video link** - https://youtu.be/6UWHZsFwajU
+**project demo video link** - https://youtu.be/eZx1ekYweuE
 
 ## Azure technologies used for Project
 
